@@ -37,7 +37,7 @@
             android:maxWidth="270dp"
             android:minWidth="50dp"
             android:text="TextView"
-            android:textSize="10sp"
+            android:textSize="10dp"
             app:layout_constraintBottom_toTopOf="@+id/senderTime"
             app:layout_constraintEnd_toStartOf="@+id/guideline2"
             app:layout_constraintTop_toTopOf="parent"

@@ -24,7 +24,7 @@
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="1.0"
-        app:layout_constraintStart_toStartOf="@+id/guideline2" />
+        app:layout_constraintStart_toStartOf="@+id/receiverText" />
 
     <TextView
         android:id="@+id/receiverText"
@@ -35,7 +35,7 @@
         android:maxWidth="310dp"
         android:maxHeight="400dp"
         android:text="TextView"
-        android:textSize="10sp"
+        android:textSize="10dp"
         app:layout_constraintBottom_toTopOf="@+id/receiverTime"
         app:layout_constraintStart_toStartOf="@+id/guideline2"
         app:layout_constraintTop_toTopOf="parent"
