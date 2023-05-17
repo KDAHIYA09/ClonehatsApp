@@ -1,4 +1,4 @@
-# ClonehatsApp
+# ClonewhatsApp
 Created a clone whatsapp using Firebase and java(Frontend and backend)
 
 # Note
